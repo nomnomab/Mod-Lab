@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\nomno\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_Utilities.1662402206.00" t="ExcludeRecursive" />
+    <e p="D:\Users\nomno\Documents\Unity\Utilities" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets\EditorStyleViewer.cs" t="Include" />
+      <e p="Assets\InputFieldMod" t="Include">
+        <e p="InputFieldMod.cs" t="Include" />
+      </e>
+      <e p="Assets\Plugins" t="Include">
+        <e p="AttributeCreationKit" t="Include">
+          <e p="CKElement.cs" t="Include" />
+          <e p="CkLabel.cs" t="Include" />
+          <e p="CkVerticalSection.cs" t="Include" />
+          <e p="CreationWindow.cs" t="Include" />
+        </e>
+        <e p="AttributeLab" t="Include">
+          <e p="NAttribute.cs" t="Include" />
+          <e p="NButton.cs" t="Include" />
+          <e p="NDrawer.cs" t="Include" />
+          <e p="NHideInEditor.cs" t="Include" />
+          <e p="NHideInGame.cs" t="Include" />
+          <e p="NReadOnly.cs" t="Include" />
+          <e p="TestClass.cs" t="Include" />
+        </e>
+        <e p="ModLab" t="Include">
+          <e p="Extensions.cs" t="Include" />
+          <e p="Mod.cs" t="Include" />
+          <e p="ModClass.cs" t="Include" />
+          <e p="ModLab.cs" t="Include" />
+          <e p="ModLabDynamicSample.cs" t="Include" />
+          <e p="ModLabObject.cs" t="Include" />
+          <e p="ModLabObjectChangedEvent.cs" t="Include" />
+          <e p="ModLabSample.cs" t="Include" />
+          <e p="ModLabWindow.cs" t="Include" />
+          <e p="SampleBehaviour.cs" t="Include" />
+          <e p="SingleReferenceHandler.cs" t="Include" />
+        </e>
+        <e p="Test.cs" t="Include" />
+      </e>
+      <e p="Assets\Tarfmagougou" t="Include">
+        <e p="UnityInternalIcons" t="Include">
+          <e p="Editor" t="Include">
+            <e p="TarfmagougouHelperUII.cs" t="Include" />
+            <e p="UnityInternalIcons.cs" t="Include" />
+          </e>
+          <e p="README.txt" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="Utilities.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
